@@ -3,7 +3,7 @@ A small (incomplete) PHP script to query your Valheim server.
 
 # How is this used?
 
-Steam API Kex Required:
+Steam API Key Required:
 https://steamcommunity.com/dev/apikey
 ############################################################################
 
