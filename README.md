@@ -10,7 +10,7 @@ pic or html or get Request (status.php?option=pic).
 
 Edit Steampath (Line 9):
 
-...\addr\<your IP>:<your QueryPort>&key=<Your SteamAPI Key>
+...\addr\ your IP : your QueryPort &key= Your SteamAPI Key
   
 */
 ############################################################################
