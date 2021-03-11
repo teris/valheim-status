@@ -3,7 +3,9 @@ A small (incomplete) PHP script to query your Valheim server.
 
 # How is this used?
 ############################################################################
+
 /*
+
 Edit Option (Line 8)
 
 pic or html or get Request (status.php?option=pic).
@@ -13,6 +15,7 @@ Edit Steampath (Line 9):
 ...\addr\ your IP : your QueryPort &key= Your SteamAPI Key
   
 */
+
 ############################################################################
 # Example:
 $option = "pic";
