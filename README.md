@@ -5,10 +5,13 @@ A small (incomplete) PHP script to query your Valheim server.
 ############################################################################
 /*
 Edit Option (Line 8)
+
 pic or html or get Request (status.php?option=pic).
 
 Edit Steampath (Line 9):
+
 ...\addr\<your IP>:<your QueryPort>&key=<Your SteamAPI Key>
+  
 */
 ############################################################################
 # Example:
