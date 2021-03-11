@@ -6,7 +6,7 @@ Edit Steampath:
 */
 
 $option = "pic"; // pic or html or get Request (status.php?option=pic).
-$steam_path = 'https://api.steampowered.com/IGameServersService/GetServerList/v1/?filter=\appid\892970\addr\54.39.215.216:2457&key=0B3D1CFC374D7078C28F55F194B0F293';
+$steam_path = 'https://api.steampowered.com/IGameServersService/GetServerList/v1/?filter=\appid\892970\addr\123.123.123.123:1234&key=123456789123456798';
 ############################################################################
 
 
